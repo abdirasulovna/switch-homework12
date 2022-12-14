@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/switch-homework12/static/css/main.0f4cb684.chunk.css",
+    "main.js": "/switch-homework12/static/js/main.c876959d.chunk.js",
+    "main.js.map": "/switch-homework12/static/js/main.c876959d.chunk.js.map",
+    "runtime-main.js": "/switch-homework12/static/js/runtime-main.b68c9408.js",
+    "runtime-main.js.map": "/switch-homework12/static/js/runtime-main.b68c9408.js.map",
+    "static/js/2.5145276b.chunk.js": "/switch-homework12/static/js/2.5145276b.chunk.js",
+    "static/js/2.5145276b.chunk.js.map": "/switch-homework12/static/js/2.5145276b.chunk.js.map",
+    "index.html": "/switch-homework12/index.html",
+    "static/css/main.0f4cb684.chunk.css.map": "/switch-homework12/static/css/main.0f4cb684.chunk.css.map",
+    "static/js/2.5145276b.chunk.js.LICENSE.txt": "/switch-homework12/static/js/2.5145276b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b68c9408.js",
+    "static/js/2.5145276b.chunk.js",
+    "static/css/main.0f4cb684.chunk.css",
+    "static/js/main.c876959d.chunk.js"
+  ]
+}
